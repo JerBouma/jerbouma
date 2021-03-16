@@ -9,6 +9,8 @@ I make use of GitHub pages to share my projects and thoughts, [check it out here
   - Via LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/boumajeroen/)
 - 💬 Ask me about anything Finance-related!
 
+What you can't find here is my new *Investments Tracker*. A highly detailed Google Spreadsheet that can help you track your investment decisions adequately which you can [view and download on my GitHub pages website](https://jerbouma.github.io/InvestmentsTracker/)!
+
 <!--
 **JerBouma/jerbouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
