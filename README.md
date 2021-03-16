@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+I make use of GitHub pages to share my projects and thoughts, [check it out here](https://jerbouma.github.io/)!
+
+- 🔭 I'm currently working on maintaining all my current repositories and adding new features!
+- 👯 I'm looking to collaborate on maintaining the [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) by refreshing the database periodically.
+- 📫 How to reach me:
+  - By email: jer.bouma@gmail.com
+  - Via LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/boumajeroen/)
+- 💬 Ask me about anything Finance-related!
 
 <!--
 **JerBouma/jerbouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
