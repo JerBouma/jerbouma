@@ -11,6 +11,8 @@ I make use of GitHub pages to share my projects and thoughts, [check it out here
 
 What you can't find here is my new **Investments Tracker**. A highly detailed Google Spreadsheet that can help you track your investment decisions adequately which you can [view and download on my GitHub pages website](https://jerbouma.github.io/InvestmentsTracker/)!
 
+<a href="https://www.buymeacoffee.com/jerbouma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <!--
 **JerBouma/jerbouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
