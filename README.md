@@ -1,29 +1,11 @@
 ### Welcome to my profile! 👋
 
-I make use of GitHub pages to share my projects and thoughts, [check it out here](https://jerbouma.github.io/)!
+Thank you for taking the time to visit this page! 👋
 
-- 🔭 I'm currently working on maintaining all my current repositories and adding new features!
-- 👯 I'm looking to collaborate on maintaining the [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) by refreshing the database periodically.
-- 📫 How to reach me:
-  - By email: jer.bouma@gmail.com
-  - Via LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/boumajeroen/)
-- 💬 Ask me about anything Finance-related!
+With a strong background in Finance and programming, I am actively maintaining the packages [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) and [FundamentalAnalysis](https://github.com/JerBouma/FundamentalAnalysis) with both well over 1.000 GitHub Stars. Furthermore, I am also one of the main contributors of the [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) that has around 20.000 GitHub stars.
 
-What you can't find here is my **Investments Tracker**. A highly detailed Google Spreadsheet that can help you track your investment decisions adequately which you can [view and download on my GitHub pages website](https://jerbouma.github.io/projects.html)!
+My strong passion for both Finance and programming make it so I actively maintain these packages in my spare time for free and I would never ask for any money of any kind. However, kind words and donations from the community keeps the flame within me alive to keep improving! 🔥
 
 <a href="https://www.buymeacoffee.com/jerbouma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<!--
-**JerBouma/jerbouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach out to me via [LinkedIn Profile](https://www.linkedin.com/in/boumajeroen/) and by email: jer.bouma@gmail.com
