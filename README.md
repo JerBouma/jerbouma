@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-Thank you for taking the time to visit this page! 👋
+Thank you for taking the time to visit this page!
 
 With a strong background in Finance and programming, I am actively maintaining the packages [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) and [FundamentalAnalysis](https://github.com/JerBouma/FundamentalAnalysis) with both well over 1.000 GitHub Stars. Furthermore, I am also one of the main contributors of the [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) that has around 20.000 GitHub stars.
 
