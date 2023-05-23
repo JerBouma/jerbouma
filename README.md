@@ -2,13 +2,8 @@
 
 Thank you for taking the time to visit this page!
 
-With a strong background in Finance and programming, I am actively maintaining the packages [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) and [FundamentalAnalysis](https://github.com/JerBouma/FundamentalAnalysis) with both well over 1.000 GitHub Stars. Furthermore, I am also one of the main contributors of the [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal) that has around 20.000 GitHub stars.
+My name is Jeroen Bouma and I work as a Financial Risk Analyst at A.S.R. which is one of the largest Dutch insurance companies with over €60 billion assets under management (AUM). Within this role I am responsible for analysing the profitability and investment risks, perform sensitivity analysis on both assets and liabilities and develop new and existing financial models to better understand the relationship between risk and return working closely with a variety of financial analysts.
 
-My strong passion for both Finance and programming make it so I actively maintain these packages in my spare time for free and I would never ask for any money of any kind. However, kind words and donations from the community keeps the flame within me alive to keep improving! 🔥
+I’ve ended up at A.S.R. after having worked at OpenBB, an open-source company revolutionizing the way investment research is done and PGGM, one of the largest pension funds in the Netherlands with well over €300 billion AUM. All three have one thing in common which characterises myself as well: combining (advanced) Python modelling with Quantitative Finance.
 
-<a href="https://www.buymeacoffee.com/jerbouma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-
-You can reach out and connect with me via my [LinkedIn Profile](https://www.linkedin.com/in/boumajeroen/) and by email: jer.bouma@gmail.com
+### [Consider visiting my website to learn more about myself and my projects by clicking here!](https://jeroenbouma.com/)
