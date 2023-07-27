@@ -10,4 +10,6 @@ I thrive in the realm where advanced financial modeling meets making sense of th
 
 My website offers a comprehensive resume with testimonials, my open-source Python projects related to financial theory, recorded talks and videos I’ve participated in, and a complete list of literature I’ve studied to enhance my understanding of the financial world.
 
-[![Website](https://img.shields.io/badge/Website-Learn%20more%20about%20me%20here!-brightgreen?style=for-the-badge&logo=ReadMe)](https://jeroenbouma.com/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-brightgreen?logo=buymeacoffee)](https://www.buymeacoffee.com/jerbouma)
+[![Website](https://img.shields.io/badge/Read_More-website?logo=readme&label=Website)](https://jeroenbouma.com/)
+[![Discord](https://img.shields.io/badge/Chat-hello?logo=discord&label=Discord)](https://discordapp.com/users/547886981468782613)
