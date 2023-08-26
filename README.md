@@ -10,8 +10,9 @@ I thrive in the realm where advanced financial modeling meets making sense of th
 
 ___ 
 
-<div align="center">My website offers a comprehensive resume with testimonials, my open-source Python projects related to financial theory, recorded talks and videos I’ve participated in, and a complete list of literature I’ve studied to enhance my understanding of the financial world.</div>
+<div align="center">My website offers a comprehensive resume with testimonials, my open-source Python projects related to financial theory including extensive examples and documentation, recorded talks and videos I’ve participated in, and a complete list of literature I’ve studied to enhance my understanding of the financial world.</div>
 
-<p><div align="center"><b><a href="https://www.jeroenbouma.com/">View it here!</a></b></div></p>
+<p><div align="center"><img alt="JerBouma" src="https://img.shields.io/badge/Visit_my_Website-blue?style=for-the-badge&link=https%3A%2F%2Fwww.jeroenbouma.com%2F">
+</div></p>
 
 ___
