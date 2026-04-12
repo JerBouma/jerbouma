@@ -9,7 +9,7 @@ I joined a.s.r. asset management after working at OpenBB, an innovative open-sou
 My main open-source projects have together earned over 10,000 GitHub Stars and are used by thousands of analysts, developers, and students worldwide:
 
 - **[Finance Toolkit](https://github.com/JerBouma/FinanceToolkit)** which gives access to all relevant financial ratios, indicators and performance measurements written in the most simplistic way, allowing for complete transparency of the calculation method.
-- **[Finance Database](https://github.com/JerBouma/FinanceDatabase)** which features 300,000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets. It provides a broad overview of sectors, industries, and investment types across 111 countries. It has over 7,000 Stars.
+- **[Finance Database](https://github.com/JerBouma/FinanceDatabase)** which features 300,000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets. It provides a broad overview of sectors, industries, and investment types across 111 countries.
 
 Furthermore, I maintain a website which offers a comprehensive resume with testimonials, my open-source Python projects related to financial theory including extensive examples and documentation, all of my public speaking events and conferences I attended, and a complete list of literature I've studied to enhance my understanding of the financial world.
 
